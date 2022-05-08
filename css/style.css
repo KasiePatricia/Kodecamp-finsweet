@@ -750,11 +750,10 @@ input:focus {
   #hero-section .image-section {
     order: 1;
     min-height: 100vh;
-    min-width: 100vh;
   }
 
   .text-section h1 {
-    font-size: 35px;
+    font-size: 28px;
   }
 
   #quote-section, #hero-section {
@@ -832,7 +831,8 @@ input:focus {
 
   .flexbox-text h4 {
     font-size: 14px;
-    padding-top: 20px;
+    padding: 20px 0 0 30px;
+    margin-left: 0;
     width: 100%;
   }
 
@@ -847,12 +847,12 @@ input:focus {
 
   .button {
     text-align: center;
-    margin: 30px 0 0 0;
+    margin: 20px 0 0 0;
     width: 100%;
   }
 
   .black-btn {
-    padding: 10px;
+    padding: 5px;
     font-size: 14px;
   }
 
