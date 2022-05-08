@@ -675,7 +675,7 @@ input:focus {
   }
 
   .brand-img {
-    width: 33%;
+    width: 50%;
   }
 
   .footer-nav ul {
@@ -749,6 +749,7 @@ input:focus {
 
   #hero-section .image-section {
     order: 1;
+    min-height: 100vh;
   }
 
   .text-section h1 {
@@ -893,7 +894,7 @@ input:focus {
   }
 
   .brand-img {
-      width: 50%;
+      width: 100%;
   }
 
   #comments .comments-heading {
