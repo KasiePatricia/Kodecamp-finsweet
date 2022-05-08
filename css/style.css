@@ -750,7 +750,7 @@ input:focus {
   #hero-section .image-section {
     order: 1;
     min-height: 100vh;
-    max-width: 200px;
+   
   }
 
   .text-section h1 {
@@ -833,7 +833,6 @@ input:focus {
   .flexbox-text h4 {
     font-size: 14px;
     padding-top: 20px;
-    width: 100%;
   }
 
   .contact-bg, .contact-bg2, .contact-flexbox{
@@ -847,12 +846,12 @@ input:focus {
 
   .button {
     text-align: center;
-    margin: 30px 0 0 0;
+    margin: 10px 0 0 0;
     width: 100%;
   }
 
   .black-btn {
-    padding: 10px;
+    padding: 5px;
     font-size: 14px;
   }
 
