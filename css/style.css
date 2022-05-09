@@ -750,6 +750,7 @@ input:focus {
   #hero-section .image-section {
     order: 1;
     min-height: 100vh;
+
   }
 
   .text-section h1 {
